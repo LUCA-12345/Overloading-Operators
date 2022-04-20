@@ -1,5 +1,3 @@
-//Programmer: Luke Tascone
-//Lab 13A
 
 #include <iostream>
 #include "Circle.h"
